@@ -1,1 +1,2 @@
 # netstat_parser
+The netstat parser is a tool to parse listening ports of netstat outout for botj Windows and Linux. This can be usefull, if you want to nmap version scan every open port on a system you've got a shell on.
